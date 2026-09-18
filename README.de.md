@@ -13,10 +13,6 @@
 ![CI](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-<!-- TODO: 10-15s GIF, das ein WhatsApp-Gespräch zeigt, in dem der Bot eine Produktfrage beantwortet.
-     Speichern unter docs/demo.gif -->
-![WhatsApp-KI-Assistent Demo](docs/demo.gif)
-
 </div>
 
 ---
