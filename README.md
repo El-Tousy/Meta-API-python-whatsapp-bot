@@ -293,7 +293,7 @@ A branch protection rule on `main` requiring this workflow to pass is recommende
 
 ## Author
 
-**Leila El-Tousy** — Computer Science student, Morocco
+**El-Tousy** — Computer Science student, Morocco
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/El-Tousy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
